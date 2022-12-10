@@ -1,0 +1,11 @@
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\bin\Debug\WindowsFormsApp1lesson2.exe.config
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\bin\Debug\WindowsFormsApp1lesson2.exe
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\bin\Debug\WindowsFormsApp1lesson2.pdb
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.csproj.AssemblyReference.cache
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.Form1.resources
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.Properties.Resources.resources
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.csproj.GenerateResource.cache
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.csproj.CoreCompileInputs.cache
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.exe
+C:\Users\pozdn\source\repos\WindowsFormsApp1lesson2\WindowsFormsApp1lesson2\obj\Debug\WindowsFormsApp1lesson2.pdb
